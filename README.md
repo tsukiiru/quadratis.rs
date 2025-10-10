@@ -1,2 +1,1 @@
-# quadratis.rs
-a simple and probably fast image finder that's the most similar to given a sample image
+i'll write readme later, im sleeping now
